@@ -17,7 +17,7 @@ export default async (req, res, next) => {
   try {
     const decoded = await promisify(jwt.verify)(token, authConfig.secret);
 
-    //This will send the userId on request if its are token necessary
+    // This will send the userId on request if its are token necessary
     req.userId = decoded.id;
 
     return next();
