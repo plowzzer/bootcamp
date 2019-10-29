@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/node_modules/react-native/React/CxxBridge/NSDataBigString.mm \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/node_modules/react-native/React/CxxBridge/NSDataBigString.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-cxxreact/cxxreact/JSBigString.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/Exception.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/Conv.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/DoubleConversion/double-conversion/double-conversion.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/DoubleConversion/double-conversion/utils.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/Demangle.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/FBString.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/Portability.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/CPortability.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/Traits.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/hash/Hash.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/Utility.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/functional/ApplyTuple.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/functional/Invoke.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/Preprocessor.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/hash/SpookyHashV1.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/hash/SpookyHashV2.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/lang/Bits.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/ConstexprMath.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/lang/Assume.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/portability/Builtins.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/memory/Malloc.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/memory/detail/MallocImpl.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/Expected.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/Likely.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/Optional.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/Unit.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/lang/ColdClass.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/Range.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/portability/Constexpr.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/portability/String.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/CpuId.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/detail/RangeCommon.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/glog/glog/logging.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/glog/glog/log_severity.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/glog/glog/vlog_is_on.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/detail/RangeSse42.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/portability/Math.h

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>13D7419B-3DAE-41CE-83E0-0B2C0756E2BB</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>13D7419B-3DAE-41CE-83E0-0B2C0756E2BB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rnative01 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rnative01</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace rnative01 with scheme rnative01 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>593993378.68833303</real>
+			<key>timeStoppedRecording</key>
+			<real>593993379.41289997</real>
+			<key>title</key>
+			<string>Building workspace rnative01 with scheme rnative01 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>13D7419B-3DAE-41CE-83E0-0B2C0756E2BB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

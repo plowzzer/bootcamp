@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.mm \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Target\ Support\ Files/ReactCommon/ReactCommon-prefix.pch \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/node_modules/react-native/ReactCommon/jscallinvoker/ReactCommon/JSCallInvoker.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/node_modules/react-native/ReactCommon/turbomodule/core/TurboModule.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/node_modules/react-native/ReactCommon/turbomodule/core/LongLivedObject.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/node_modules/react-native/ReactCommon/turbomodule/core/TurboModuleUtils.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/Optional.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/Portability.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/CPortability.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/Traits.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/Utility.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/plowzzer/Documents/projects/bootcamp/rnative01/ios/Pods/Folly/folly/CppAttributes.h
